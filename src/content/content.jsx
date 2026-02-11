@@ -60,7 +60,7 @@ export const infos = {
       {/* <p>Endereço:</p> */}
       <p>SCN Quadra 02, Bloco D,</p>
       <p>Sala 1027, Torre A – Shopping Liberty Mall,</p>
-      <p>Brasília - DF,,</p>
+      <p>Brasília - DF,</p>
       <p>CEP: 70712-903</p>
     </div>
   ),
